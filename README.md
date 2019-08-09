@@ -1,5 +1,5 @@
 # WeatherTracker
-REST API to read weather data and return weather weather metrics. The objective is to implement the service interfaces provided that support the HTTP bindings.
+A REST API to read weather data and to return weather metrics. The objective is to implement the service interfaces provided that support the HTTP bindings.
 
 Sarah is interested in tracking weather conditions in her garden. To accomplish this, she has set up some weather instruments connected to a Raspberry Pi that makes HTTP calls from time to time with various metrics.
 
